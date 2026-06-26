@@ -1,6 +1,8 @@
-# news_app
+# News_App
 
 A new Flutter project.
+
+![App Demo](assets/app.gif)
 
 ## Getting Started
 
